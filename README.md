@@ -25,6 +25,8 @@ This is an Exploratory Data project so no modeling or predictive analysis was do
 # Technical Details
 The presentation tools used for this project were R Studio and R Markdown. The HTML file was made using the Rmarkdown tool, hwoever it is too large for it to be visible in the Github Repo. Most of the information necessary can be extracted from the rmd file that has been attached, but the graphs and accompanying tables will not be visible unless that code has been executed. Rstudio was used as the interface where all of this analysis and code was written, and the library knitr was used to extract the code from the rmd file. 
 
+# Tool Selection
+R was used due to the simplicity of visualizing and sorting through a large data set inside of the same interface. The dplyr and ggplot2 packages make the analysis much easier to conduct, and allow for a tabular and graphical visualization of the data set. For presentation purposes, knitr and R markdown were chosen due to the convenience of being able to immediately see the outputs of your code inside of your presentation and the ability to edit out any mistakes inside of the presentation document itself. Furthermore, it is my personal preference to do EDA in R due to the packages named above, however if I was to do a predictive analysis with complex algorithms, my preference would be to use Python and its associated Data Analysis Packages. 
 
 # Presentation Notes
 The HTML file of the presentation was too large to upload properly to Github, so instead I uploaded an accompanying Word Document and PDF. THe graphs and presentation would look better if uploaded with html, but the current size limits for the repository do not permit that. 
